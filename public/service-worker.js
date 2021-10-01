@@ -1,6 +1,7 @@
 const FILES_TO_CACHE = [
   '/',
-  "/favicon.ico",
+  '/index.html',
+  '/favicon.ico',
   '/manifest.webmanifest',
   '/assets/css/style.css',
   '/assets/js/index.js',
